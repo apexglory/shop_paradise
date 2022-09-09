@@ -1,0 +1,9 @@
+body{
+    font-size: calc(100vw / 19.2);
+}
+#app{
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0 auto;
+}
